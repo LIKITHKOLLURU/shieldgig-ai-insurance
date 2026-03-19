@@ -240,6 +240,6 @@ ShieldGig provides a scalable, AI-driven solution to protect gig workers from in
 Viedo URL:
 
 ##Implementation coming soon
--team Byte Force.
+-team Byte Force
 
 
