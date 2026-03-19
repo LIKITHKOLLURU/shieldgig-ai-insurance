@@ -237,7 +237,7 @@ The admin dashboard provides complete control and monitoring of the system.
 ShieldGig provides a scalable, AI-driven solution to protect gig workers from income loss. By combining real-time data, automation, and predictive intelligence, it ensures financial stability and resilience in the gig economy.
 
 ---
-Viedo URL:
+Viedo URL:https://drive.google.com/file/d/1C--jTSFIeKqhV2nnnxsZ-cpiKEcT5ni1/view?usp=sharing
 
 ##Implementation coming soon
 -team Byte Force.
